@@ -1,0 +1,9 @@
+﻿civ-div
+{
+    border: 12px dotted #000; /* Çerçeve rengi ve kalınlığı */
+    border-block-color: goldenrod;
+    padding: 10px; /* İçerik ile çerçeve arasındaki boşluk */
+    margin: 20px; /* Div'in etrafındaki boşluk */
+}
+
+

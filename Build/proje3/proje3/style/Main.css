@@ -1,0 +1,26 @@
+﻿#Header {
+    width: 100%;
+    height: 100px;
+    background-color: #AAAAFF;
+}
+
+#Menu {
+    width: 20%;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+#Content {
+    width: 80%;
+    background-color: #AAAAFF;
+    float: left;
+}
+
+#Footer {
+    clear: both;
+    width: 100%;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+}
